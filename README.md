@@ -48,6 +48,3 @@
 <p>
       <input type="submit" value="Submit">
 </p>
-
-</html>
-    

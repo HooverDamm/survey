@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Best Friend Survey</title>
-</head>
+<meta charset="UTF-8">
+
 
 <h1>Please rate Landon as a best friend.</h1>
 

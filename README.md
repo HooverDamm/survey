@@ -44,7 +44,8 @@
         <label for="very">Very likely</label>
     </div>
 </form>
+<br><br>
 
 <p>
       <input type="submit" value="Submit">
-</p><br><br>
+</p>
